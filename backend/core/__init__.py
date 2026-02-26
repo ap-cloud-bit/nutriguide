@@ -1,1 +1,0 @@
-# NutriGuide backend package
